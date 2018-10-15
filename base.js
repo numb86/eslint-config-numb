@@ -7,4 +7,7 @@ module.exports = {
     'no-param-reassign': ['error', {props: false}],
     'prefer-destructuring': 1,
   },
+  parserOptions: {
+    ecmaVersion: 2018,
+  },
 };
