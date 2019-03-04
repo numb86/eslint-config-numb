@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-numb",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "numb_86 がいつも使っているESLintの設定",
   "main": "index.js",
   "license": "MIT",

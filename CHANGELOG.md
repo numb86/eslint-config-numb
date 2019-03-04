@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 3.0.0 (2019/03/04)
+
+* eslint-plugin-react-hooks を導入した [#6](https://github.com/numb86/eslint-config-numb/pull/6)
+
 ### 2.0.1 (2019/03/02)
 
 * 依存ライブラリに脆弱性があったのでバージョンを上げた [#4](https://github.com/numb86/eslint-config-numb/pull/4)
