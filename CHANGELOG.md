@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 4.0.0 (2019/03/11)
+
+* jsx-key を有効にした [#8](https://github.com/numb86/eslint-config-numb/pull/8)
+
 ### 3.0.0 (2019/03/04)
 
 * eslint-plugin-react-hooks を導入した [#6](https://github.com/numb86/eslint-config-numb/pull/6)
