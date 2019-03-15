@@ -4,6 +4,7 @@ module.exports = {
     'react/jsx-filename-extension': 0,
     'react/prop-types': 0,
     'react-hooks/rules-of-hooks': 2,
+    'react-hooks/exhaustive-deps': 2,
     'react/jsx-key': 2,
   },
 };
