@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 5.0.0 (2019/03/16)
+
+* react-hooks/exhaustive-deps を有効にした [#10](https://github.com/numb86/eslint-config-numb/pull/10)
+
 ### 4.0.0 (2019/03/11)
 
 * jsx-key を有効にした [#8](https://github.com/numb86/eslint-config-numb/pull/8)
