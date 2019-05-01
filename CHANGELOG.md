@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 5.1.0 (2019/05/01)
+
+* ライブラリのバージョンを上げた [#12](https://github.com/numb86/eslint-config-numb/pull/12), [#13](https://github.com/numb86/eslint-config-numb/pull/13)
+
 ### 5.0.0 (2019/03/16)
 
 * react-hooks/exhaustive-deps を有効にした [#10](https://github.com/numb86/eslint-config-numb/pull/10)
