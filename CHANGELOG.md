@@ -1,5 +1,9 @@
 # CHANGELOG
 
+### 6.0.0 (2019/06/07)
+
+* eslint-config-prettier をメジャーアップデートした [#15](https://github.com/numb86/eslint-config-numb/pull/15)
+
 ### 5.1.0 (2019/05/01)
 
 * ライブラリのバージョンを上げた [#12](https://github.com/numb86/eslint-config-numb/pull/12), [#13](https://github.com/numb86/eslint-config-numb/pull/13)
