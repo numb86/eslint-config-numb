@@ -15,7 +15,8 @@
   "author": "numb_86",
   "scripts": {
     "lint": "eslint *.js",
-    "release": "standard-version -t ''"
+    "release": "standard-version -t ''",
+    "commitlint": "git describe --abbrev=0 --tags | xargs -I@ commitlint --from=@"
   },
   "dependencies": {
     "eslint": "^5.9.0",
