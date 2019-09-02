@@ -14,7 +14,9 @@
   },
   "author": "numb_86",
   "scripts": {
-    "lint": "eslint *.js"
+    "lint": "eslint *.js",
+    "release": "standard-version -t ''",
+    "commitlint": "git describe --abbrev=0 --tags | xargs -I@ commitlint --from=@"
   },
   "dependencies": {
     "eslint": "^5.9.0",
@@ -26,5 +28,10 @@
     "eslint-plugin-react": "^7.12.4",
     "eslint-plugin-react-hooks": "^1.6.0",
     "prettier": "^1.17.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.1.0",
+    "@commitlint/config-conventional": "^8.1.0",
+    "standard-version": "^7.0.0"
   }
 }
