@@ -14,7 +14,8 @@
   },
   "author": "numb_86",
   "scripts": {
-    "lint": "eslint *.js"
+    "lint": "eslint *.js",
+    "release": "standard-version"
   },
   "dependencies": {
     "eslint": "^5.9.0",
