@@ -1,4 +1,18 @@
-# CHANGELOG
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [7.0.0](https://github.com/numb86/eslint-config-numb/compare/6.0.0...7.0.0) (2019-09-03)
+
+
+### ⚠ BREAKING CHANGES
+
+* $ npm i eslint-config-airbnb@latest
+* $ npm i eslint-config-prettier@latest
+
+### Dependencies
+
+* ライブラリのバージョンを上げる ([#21](https://github.com/numb86/eslint-config-numb/issues/21)) ([8f3acdc](https://github.com/numb86/eslint-config-numb/commit/8f3acdc)), closes [/github.com/airbnb/javascript/blob/master/packages/eslint-config-airbnb/CHANGELOG.md#1800--2019-08-10](https://github.com/numb86//github.com/airbnb/javascript/blob/master/packages/eslint-config-airbnb/CHANGELOG.md/issues/1800--2019-08-10)
 
 ### 6.0.0 (2019/06/07)
 
