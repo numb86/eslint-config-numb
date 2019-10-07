@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [8.0.0](https://github.com/numb86/eslint-config-numb/compare/7.0.0...8.0.0) (2019-10-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* eslint のメジャーバージョンアップ。
+
+### Dependencies
+
+* ライブラリのバージョンを上げる ([#22](https://github.com/numb86/eslint-config-numb/issues/22)) ([188a7b5](https://github.com/numb86/eslint-config-numb/commit/188a7b5))
+
 ## [7.0.0](https://github.com/numb86/eslint-config-numb/compare/6.0.0...7.0.0) (2019-09-03)
 
 
